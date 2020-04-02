@@ -31,7 +31,7 @@
 		A14EEE2B8DF353593BDC50DB /* Pods-Mute_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mute_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Mute_Tests/Pods-Mute_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C78FC3983B87754D954BBEBB /* Pods-Mute_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Mute_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Mute_Tests/Pods-Mute_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		CBC663416566A5DFB3C5AC53 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E1A6343BA0213F720791C9FA /* Mute.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Mute.podspec; path = ../Mute.podspec; sourceTree = "<group>"; };
+		E1A6343BA0213F720791C9FA /* Mute.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Mute.podspec; path = ../Mute.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
