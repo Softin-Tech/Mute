@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Mute'
-  s.version          = '0.5.2'
+  s.version          = '0.5.3'
   s.summary          = 'Detect if silent/mute switch is enabled/disabled'
   s.description      = <<-DESC
 There is no native iOS API to detect if the mute switch is enabled/disabled on a device.
@@ -14,7 +14,7 @@ This library is a Swift variant of https://github.com/moshegottlieb/SoundSwitch.
   s.homepage         = 'https://github.com/akramhussein/Mute'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Akram Hussein' => 'akramhussein@gmail.com' }
-  s.source           = { :git => 'https://github.com/akramhussein/Mute.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Softin-Tech/Mute.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ahussein'
 
   s.ios.deployment_target = '9.0'
